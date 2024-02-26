@@ -1,3 +1,6 @@
+
+[Live Demo](https://saifullah-ansari.github.io/Stay-Fit/)
+
 # GYM-Website-Html-Css-JS
 **Project Title: Gym Website**  **Description:**  Created a dynamic and responsive gym website using HTML, CSS, and JavaScript. The site features information about classes, Pricing and trainers. Users can easily navigate the intuitive interface to explore what the gym offers.
 [screen-capture.webm](https://github.com/ankki457/GYMkjjh-Website-Html-Css-JS/assets/130775560/9ea525b8-1c37-4e4d-8087-21adc5a1124a)
